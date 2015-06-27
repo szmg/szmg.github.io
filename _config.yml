@@ -1,8 +1,8 @@
 # Build settings
 markdown: redcarpet
-highlighter: rouge
-#gems:
-#  - jemoji
+
+safe: true
+lsi: false
 
 # Site settings
 #title: "Mate Szvoboda"
